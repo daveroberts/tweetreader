@@ -1,0 +1,5 @@
+# Customize and copy this to config.toml
+ConsumerKey = "abcdef"
+ConsumerSecret = "abcdef"
+ApiKey = "abcdef"
+ApiKeySecret = "abcdef"
